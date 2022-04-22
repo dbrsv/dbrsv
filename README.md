@@ -1,5 +1,5 @@
 - 👋 Hi, I’m reserach scientist in field of sedimentology
-- 👀 I’m interested in processing of geochemmical, color reflectance and grain-size data using R
+- 👀 I’m interested in processing and analysis of geochemmical, color reflectance and grain-size data using R
 - 📫 How to reach me : https://t.me/coreblogger
 
 <!---
